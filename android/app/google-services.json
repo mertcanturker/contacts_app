@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292076534478",
+    "project_id": "contacts-mt",
+    "storage_bucket": "contacts-mt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292076534478:android:5501f44b1859b3f737ee9f",
+        "android_client_info": {
+          "package_name": "com.mrtcn.contacts.kisiler_uygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU55au25gaodtaoiqDRzXB3F8FDU9Dvgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
